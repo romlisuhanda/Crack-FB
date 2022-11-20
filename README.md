@@ -4,7 +4,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 [![Youtube](https://img.shields.io/badge/Youtube-Rio--Dev-red?style=for-the-badge&logo=youtube)](https://youtube.com/@riodev)
 
-Facebook Hacking Tool, with Bruteforce and Crack method, also provides Facebook Bot.
+Tool to hack facebook account, using crack method.
+
 > **Disclaimer:** Please do not use this on a device you don't own or do not have permission to. We do not take any responsibility.
 
 ## Metode Login
