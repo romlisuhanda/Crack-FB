@@ -46,8 +46,8 @@ ruby main.rb
 ```bash
 pkg upgrade
 pkg upgrade
-pkg install ruby
 pkg install git
+pkg install ruby
 git clone https://github.com/riodev04/Crack-FB
 cd Crack-FB
 ruby main.rb
@@ -55,8 +55,8 @@ ruby main.rb
 
 ### Installation for Windows
 First install Ruby and Git Bash on the official website below:
-- [**Ruby**](https://rubyinstaller.org/)
 - [**Git Bash**](https://git-scm.com/downloads)
+- [**Ruby**](https://rubyinstaller.org/)
 
 If everything is installed, please open one of the CMD, Windows PowerShell, or Git Bash and enter the command below:
 ```bash
