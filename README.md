@@ -36,6 +36,7 @@ Tool to hack facebook account, using crack method.
 ```bash
 sudo apt-get upgrade
 sudo apt-get upgrade
+sudo apt-get install git
 sudo apt-get install ruby
 git clone https://github.com/riodev04/Crack-FB
 cd Crack-FB
